@@ -100,28 +100,6 @@ If the game becomes unstable after installing additional modifications:
 
 Avoid combining old performance fixes with Juiced unless their current documentation specifically says they are compatible.
 
-## Notes
-
-Older Saints Row 2 optimization guides may recommend utilities, executable replacements or other patches that predate Juiced Patch.
-
-Those instructions may no longer be necessary and can conflict with newer fixes.
-
-This guide does not provide or redistribute copyrighted game executables.
-
-## References
-
-This guide was written independently using the official project documentation and Saints Row 2 modding community resources as technical references.
-
-Relevant projects:
-
-- Saints Row 2 Juiced Patch
-- Gentlemen of the Row
-- Saints Row Mods
-
-Special thanks to the developers and contributors who continue to maintain and improve Saints Row 2 on PC.
-
-R.I.P. IdolNinja.
-
 ## License
 
 Made by rabbi-lion.
